@@ -1,4 +1,3 @@
-# simple-crud-server 
 
 # connected with
 # simple-crud-client - https://github.com/Mmsshakil/simple-crud-client
